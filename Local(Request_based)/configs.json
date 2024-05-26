@@ -1,0 +1,7 @@
+{
+    "url": "https://movie.douban.com/top250",
+    "top": 250,
+    "latest": 100,
+    "host": "htt://47.120.70.158",
+    "port": "8000"
+}
